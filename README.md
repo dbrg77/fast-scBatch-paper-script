@@ -8,11 +8,12 @@ The scripts are suggested to run in a conda evnvironment. For the scripts exampl
 
 To run the scripts, the following programming languages/tools should be installed:
 * Python (suggested version: 3.11.7)
-* R (suggested versionL 4.4.0)
+* R (suggested version: 4.4.0)
 * Jupyter Notebook
 
 For the languages listed above, the following packages/libraries and their dependencies should be installed:
-**Python:**
+
+**Python**
 * `NumPy`
 * `Pandas`
 * `SciPy`
@@ -25,7 +26,7 @@ For the languages listed above, the following packages/libraries and their depen
 * `Tqdm`
 * `scDML`
 
-**R:**
+**R**
 * `reticulate`
 * `sva`
 * `limma`
